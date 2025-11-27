@@ -1,8 +1,8 @@
-Portfolio Website
+#Portfolio Website
 
 A personal portfolio website showcasing my projects, skills, and work experience. Built using HTML, CSS, JavaScript, and TailwindCSS.
 
-Features
+#Features
 
 Home section with introduction
 
